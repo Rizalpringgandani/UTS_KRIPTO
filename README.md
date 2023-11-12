@@ -41,7 +41,7 @@ Dekripsi pertama  [tranpose karakte](https://github.com/Rizalpringgandani/UTS_KR
 3. Karakter-karakter dalam tiap baris diurutkan kembali sesuai dengan indeks yang telah ditentukan, sehingga teks kembali ke urutan aslinya.
 4. Karakter yang tidak muat dalam baris-baris awal tetap diambil sesuai urutan aslinya.
 
-Dekripsi Kedua  [matrik_posisi](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/function/matrik_posisi.php)
+Dekripsi Kedua  [matrik posisi](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/function/matrik_posisi.php)
 1. Spasi dihapus dari teks terenkripsi untuk membersihkannya.
 2. Jumlah kolom dihitung berdasarkan panjang teks terenkripsi dan jumlah baris.
 3. Matriks dibentuk dengan mengisi karakter-karakter dari teks terenkripsi sesuai dengan urutan kolom dan baris.
