@@ -15,7 +15,7 @@ Metode yang diberikan dalam kode PHP di atas adalah metode enkripsi dan dekripsi
 
 Yang akan di enkripsi adalah password yang anda masukan di form registrasi 
 
-Enkripsi pertama [matrik_posisi](matrik_posisi)
+Enkripsi pertama [matrik_posisi]([matrik_posisi](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/function/matrik_posisi.php))
  :
 
 1. Pertama, spasi dihapus dari teks plaintext agar dapat diatur dengan baik dalam matriks.
