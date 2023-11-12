@@ -49,12 +49,12 @@ Dekripsi Kedua  [matrik posisi](https://github.com/Rizalpringgandani/UTS_KRIPTO/
 
 ### Form Register
 
-![alt text](asset/regis.png)
+![alt text](foto/regis.png)
 
 ### Form Login
 
-![alt text](asset/login.png)
+![alt text](foto/login.png)
 
 ### Output 
 
-![alt text](asset/hasil.png)
+![alt text](foto/hasil.png)
