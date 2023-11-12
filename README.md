@@ -13,7 +13,7 @@ Metode yang diberikan dalam kode PHP di atas adalah metode enkripsi dan dekripsi
 
 ### Database
 
-[Database](CiperTransposisiTemanPiero/db_transpose.sql)
+[Database](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/db_transpose.sql)
 
 ### Enkrpsi
 
