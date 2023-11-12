@@ -1,10 +1,10 @@
 # Tranposition cpiher
 
 
----
-Nama    :Rizal Pringgandani
-NIM     :312110151
-Kelas   :TI.21.A2
+
+### Nama    :Rizal Pringgandani
+### NIM     :312110151
+### Kelas   :TI.21.A2
 ---
 
 ### Pengenalan transposition Cipher
