@@ -11,6 +11,10 @@
 
 Metode yang diberikan dalam kode PHP di atas adalah metode enkripsi dan dekripsi yang menggunakan teknik "Transposition Matrix" atau "Matrix Transposition." Ini adalah salah satu varian dari Transposition Cipher yang mengatur karakter-karakter pesan dalam sebuah matriks (atau tabel) dan kemudian menggabungkan karakter-karakter tersebut kembali dalam urutan yang berbeda untuk menghasilkan teks terenkripsi. Berikut penjelasan lebih rinci tentang Transposition Matrix:
 
+### Database
+
+[Database](CiperTransposisiTemanPiero/db_transpose.sql)
+
 ### Enkrpsi
 
 Yang akan di enkripsi adalah password yang anda masukan di form registrasi 
