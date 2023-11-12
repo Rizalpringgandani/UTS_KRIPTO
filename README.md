@@ -35,14 +35,26 @@ Hasil Entripsi tersebut lalu di kirim ke database
 
 Password yang telah di enkripsi di ambil dari databse lalu di dekripsi agar bisa di gunakan untuk login
 
-Dekripsi pertama  [tranpose karakte](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/function/transpose_karakter.php):
+Dekripsi pertama  [tranpose karakter](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/function/transpose_karakter.php):
 1. Teks terenkripsi dipecah menjadi baris-baris, seperti yang dilakukan saat enkripsi.
 2. Indeks-indeks yang digunakan untuk mengurutkan karakter-karakter dalam baris diketahui.
 3. Karakter-karakter dalam tiap baris diurutkan kembali sesuai dengan indeks yang telah ditentukan, sehingga teks kembali ke urutan aslinya.
 4. Karakter yang tidak muat dalam baris-baris awal tetap diambil sesuai urutan aslinya.
 
-Dekripsi Kedua  [matrik posisi](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/function/matrik_posisi.php)
+Dekripsi Kedua  [matrik posisi](https://github.com/Rizalpringgandani/UTS_KRIPTO/blob/main/CiperTranposisiTemanPiero/function/matrik_posisi.php):
 1. Spasi dihapus dari teks terenkripsi untuk membersihkannya.
 2. Jumlah kolom dihitung berdasarkan panjang teks terenkripsi dan jumlah baris.
 3. Matriks dibentuk dengan mengisi karakter-karakter dari teks terenkripsi sesuai dengan urutan kolom dan baris.
 4. Karakter-karakter dari matriks diambil dalam urutan yang sesuai untuk menghasilkan teks plaintext yang asli.
+
+### Form Register
+
+![alt text](asset/regis.png)
+
+### Form Login
+
+![alt text](asset/login.png)
+
+### Output 
+
+![alt text](asset/hasil.png)
