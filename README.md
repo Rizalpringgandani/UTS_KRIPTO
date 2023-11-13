@@ -39,12 +39,16 @@ matrix_inverse: Menghitung matriks invers menggunakan invers modulus determinan.
 
 ### Form Register
 
-![alt text](foto/regis.png)
+![alt text](gambar/regis.png)
 
 ### Form Login
 
-![alt text](foto/login.png)
+![alt text](gambar/login.png)
 
-### Output 
+### enkrip
 
-![alt text](foto/hasil.png)
+![alt text](gambar/enkrip.png)
+
+### dekrip 
+
+![alt text](gambar/dekrip.png)
