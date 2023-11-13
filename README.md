@@ -9,7 +9,7 @@
 
 ### Pengenalan transposition Cipher
 
-Hill Cipher, yang merupakan sebuah teknik enkripsi yang menggunakan matriks sebagai kunci untuk mengubah teks. Berikut penjelasan tentang metode Hill Cipher yang sesuai dengan kode di atas:
+Hill Cipher adalah sebuah cipher blok yang mengenkripsi data menggunakan teknik aljabar linear. Dalam soal ini, Anda akan menggunakan Hill Cipher untuk mengamankan password pada sistem login aplikasi web. Cipher ini menggunakan sebuah matriks kunci untuk melakukan enkripsi dan matriks yang invers untuk dekripsi. Untuk menyederhanakan, asumsikan matriks kunci adalah matriks 2x2 dan semua operasi dilakukan dalam modulo 26.
 
 ### Input dan Persiapan:
 
